@@ -6,6 +6,7 @@ RoUn is the public hub for a collection of AI bot worlds. Each bot has its own r
 
 - [Matchmaker Witch GM](https://github.com/Allmi/RoUn-Matchmaker-Witch-GM) — Lysara map and world wiki
 - [Claiming Arena RPG](https://github.com/Allmi/RoUn-Claiming-Arena-RPG) — Ring City map and world wiki
+- [Modern Omegaverse City Life](https://github.com/Allmi/RoUn-City-Life) — Bellgrave map and city wiki
 
 ## Narrative Engine
 
